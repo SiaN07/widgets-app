@@ -14,7 +14,7 @@ const Counter = () =>{
                     onButtonClick()
                 }}
             >Click Me! </button>
-            <h1>Current Count: {counter} </h1>
+            <h1>Current Count is : {counter} </h1>
         </div>
     )
 }
